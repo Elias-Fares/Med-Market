@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60718038713",
+    "project_id": "notification-f0089",
+    "storage_bucket": "notification-f0089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60718038713:android:d2d9ce08c316fe349f2568",
+        "android_client_info": {
+          "package_name": "com.example.pharmachy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGVX7oEaxnhPm-t51_GWPkAmDEhCvvkLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
